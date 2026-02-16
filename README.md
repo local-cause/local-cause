@@ -29,7 +29,9 @@ The core logic and the "Website Factory" blueprint are maintained on our main de
 
 ### 🤝 Let's Chat
 Want to bring LocalCause to your community or need a site for your organization?
+
 📧 **Reach out:** [localcause@outlook.com](mailto:localcause@outlook.com)
+
 🌐 **Live Demo/HQ:** [localcause.vercel.app](https://localcause.vercel.app)
 
 ---
